@@ -1,6 +1,23 @@
 {
   "name": "alaskari-design",
   "version": "0.0.0",
+  "description": "Alaskari Design is a cutting-edge web development company specializing in creating innovative, future-ready web solutions using Angular and Express. We blend creativity with technology to deliver stunning, high-performance websites.",
+  "author": "Mohamad Alaskari <mohamad@alaskaridesign.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alaskari-Design/alaskari-design.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "express",
+    "typescript",
+    "server-side rendering",
+    "alaskari design",
+    "web",
+    "development",
+    "design"
+  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
