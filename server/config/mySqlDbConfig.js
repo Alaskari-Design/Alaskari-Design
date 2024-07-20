@@ -1,8 +1,5 @@
-const dotenv = require('dotenv');
+require('dotenv').config();
 const { Sequelize } = require('sequelize');
-
-// Load environment variables from server/.env
-dotenv.config({ path: './server/.env' });
 
 const dbConfig = {
   dialect: process.env.MYSQL_DIALECT,
