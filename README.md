@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.1.
 
+## DB
+
+Über diesen Link können Sie jetzt direkt auf den phpMyAdmin-Bereich zugreifen. wenn Sie Ihre Datenbank anpassen müssen. Bitte beachten Sie, dass Benutzer für die Anmeldung über den Datenbanklink ihren Datenbanknamen und ihr Passwort verwenden müssen.
+
+https://auth-db972.hstgr.io/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
