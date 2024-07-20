@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Projektbeschreibung
 
-Alaskari Design ist ein Projekt, das sich auf die Erstellung von Webseiten, Grafiken wie Broschüren, Flyer, Hochzeitskarten und Visitenkarten spezialisiert. Das Motto des Unternehmens lautet: "Designing tomorrow, coding the future."
+Die Alaskari Design Web App ist eine umfassende Lösung zur Verwaltung der Dienstleistungen des Unternehmens Alaskari Design. Die Web App enthält Informationen über das Unternehmen, das sich auf die Erstellung von Webseiten, Broschüren, Flyer, Hochzeitskarten und Visitenkarten spezialisiert hat. Die Web App umfasst auch ein Administrations- und Management-Panel zur Verwaltung von Inhalten und Benutzern.
 
 ## Technologie-Stack
 
@@ -17,7 +17,9 @@ Alaskari Design ist ein Projekt, das sich auf die Erstellung von Webseiten, Graf
 1. [Projektstruktur](#projektstruktur)
 2. [Installation und Einrichtung](#installation-und-einrichtung)
 3. [Frontend](#frontend)
+   1. [Technologien] (#Technologien)
 4. [Backend](#backend)
+   1. [Technologien] (#Technologien)
 5. [Datenbank](#datenbank)
    1. [phpMyAdmin Zugriff](#phpmyadmin-zugriff)
    2. [Datenbankstruktur und Beziehungen](#datenbankstruktur-und-beziehungen)
@@ -26,6 +28,8 @@ Alaskari Design ist ein Projekt, das sich auf die Erstellung von Webseiten, Graf
 8. [Lizenz](#lizenz)
 
 ## Projektstruktur
+
+![Projektstruktur](path/to/your/project-structure-diagram.png)
 
 ## Installation und Einrichtung
 
@@ -54,9 +58,7 @@ Alaskari Design ist ein Projekt, das sich auf die Erstellung von Webseiten, Graf
 
 - Über diesen Link können Sie direkt auf den phpMyAdmin-Bereich zugreifen, wenn Sie Ihre Datenbank anpassen müssen:
   [phpMyAdmin] (https://auth-db972.hstgr.io/)
-  
 - Bitte beachten Sie, dass Benutzer für die Anmeldung über den Datenbanklink ihren Datenbanknamen und ihr Passwort verwenden müssen.
-
 
 ### Datenbankstruktur und Beziehungen
 
