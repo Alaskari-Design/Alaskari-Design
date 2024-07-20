@@ -18,7 +18,9 @@ Alaskari Design ist ein Projekt, das sich auf die Erstellung von Webseiten, Graf
 2. [Installation und Einrichtung](#installation-und-einrichtung)
 3. [Frontend](#frontend)
 4. [Backend](#backend)
-5. [Datenbankstruktur und Beziehungen](#datenbankstruktur-und-beziehungen)
+5. [Datenbank](#datenbank)
+   1. [phpMyAdmin Zugriff](#phpmyadmin-zugriff)
+   2. [Datenbankstruktur und Beziehungen](#datenbankstruktur-und-beziehungen)
 6. [Verwendung](#verwendung)
 7. [Autoren](#autoren)
 8. [Lizenz](#lizenz)
@@ -31,14 +33,13 @@ Alaskari Design ist ein Projekt, das sich auf die Erstellung von Webseiten, Graf
 
 ## Frontend
 
-## Backend
-
 ### Technologien
 
 - Angular version 18.1.1.: Das Hauptframework für das Frontend.
 - Bootstrap 3: Für das Styling und die Benutzeroberfläche.
 - Popper.js: Wird zusammen mit Bootstrap für Tooltips und Popovers verwendet.
 
+## Backend
 
 ### Technologien
 
@@ -47,19 +48,32 @@ Alaskari Design ist ein Projekt, das sich auf die Erstellung von Webseiten, Graf
 - dotenv: Zum Laden von Umgebungsvariablen aus einer .env Datei.
 - MySQL: Die relationale Datenbank.
 
-## Datenbankstruktur und Beziehungen
+## Daten Bank
 
-### Tabellen
+### phpMyAdmin Zugriff
+
+- Über diesen Link können Sie direkt auf den phpMyAdmin-Bereich zugreifen, wenn Sie Ihre Datenbank anpassen müssen:
+  [phpMyAdmin] (https://auth-db972.hstgr.io/)
+  
+- Bitte beachten Sie, dass Benutzer für die Anmeldung über den Datenbanklink ihren Datenbanknamen und ihr Passwort verwenden müssen.
+
+
+### Datenbankstruktur und Beziehungen
+
+#### Tabellen
 
 ## Verwendung
 
+- Öffne deinen Browser und gehe zu http://localhost:4000 um die Anwendung zu sehen.
+- API-Endpunkte können über http://localhost:4000/api/... aufgerufen werden.
+
 ## Autoren
+
+- Mohamad Alaskari - Initiale Arbeit - [https://github.com/MohamadAlaskari]
 
 ## Lizenz
 
-Über diesen Link können Sie jetzt direkt auf den phpMyAdmin-Bereich zugreifen. wenn Sie Ihre Datenbank anpassen müssen. Bitte beachten Sie, dass Benutzer für die Anmeldung über den Datenbanklink ihren Datenbanknamen und ihr Passwort verwenden müssen.
-
-https://auth-db972.hstgr.io/
+Dieses Projekt ist unter der MIT Lizenz lizenziert
 
 ## Development server
 
